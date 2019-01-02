@@ -18,7 +18,7 @@ module Linkshare
     advanced_reports: "https://api.rakutenmarketing.com/advancedreports/1.0",
     custom_reports: "https://ran-reporting.rakutenmarketing.com/en/reports",
     product_search: "https://api.rakutenmarketing.com/productsearch/1.0",
-    events: "https://api.rakutenmarketing.com/events/1.0/transactions",
+    events: "https://api.rakutenmarketing.com/events/1.0",
     advertiser_search: "https://api.rakutenmarketing.com/advertisersearch/1.0"
   }
   SITE = "https://api.rakutenmarketing.com/"
